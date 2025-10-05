@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\project\\cityIdleRpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|D:\\work\\project\\cityIdleRpg\\assets\\scripts\\ui\\person\\uipersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\person\\uipersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|D:\\work\\project\\cityIdleRpg\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|d:\\work\\project\\cityidlerpg\\assets\\scripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|d:\\work\\project\\cityidlerpg\\assets\\scripts\\ui\\uimaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC245E5-C2B6-E305-F791-999F6278EBD7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartManager.cs",
+              "DocumentMoniker": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\StartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartManager.cs",
+              "ToolTip": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\StartManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T05:16:12.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAABAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:47:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIPersonInfo.cs",
+              "DocumentMoniker": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\Person\\UIPersonInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Person\\UIPersonInfo.cs",
+              "ToolTip": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\Person\\UIPersonInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Person\\UIPersonInfo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAlwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:46:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIMainGame.cs",
+              "DocumentMoniker": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\UIMainGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainGame.cs",
+              "ToolTip": "D:\\work\\project\\cityIdleRpg\\Assets\\Scripts\\UI\\UIMainGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:46:57.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
