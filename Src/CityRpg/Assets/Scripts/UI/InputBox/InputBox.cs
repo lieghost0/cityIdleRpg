@@ -1,0 +1,19 @@
+using System.Collections;
+using System.Collections.Generic;
+using Assets;
+using UnityEngine;
+
+class InputBox
+{
+    static Object cacheObject;
+    public static UIInputBox Show(string title, string message, string btnOK = "", string btnCancel = "", string emptyTips = "")
+    {
+        if (cacheObject == null)
+            cacheObject = Resloader.Load<Object>("UI/InputBox/UIInputBox");
+
+        GameObject go = (GameObject)GameObject.Instantiate(cacheObject);
+        UIInputBox inputBox = go.GetComponent<UIInputBox>();
+        inputBox.Init(title, message, btnOK, btnCancel, emptyTips);
+        return inputBox;
+    }
+}

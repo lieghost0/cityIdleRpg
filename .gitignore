@@ -1,7 +1,8 @@
-/.vs
-/*.vsconfig
-/Library
-/Logs
-/ProjectSettings
-/UserSettings
-/obj/Debug
+Src/CityRpg/.vs
+Src/CityRpg/*.vsconfig
+Src/CityRpg/Logs
+Src/CityRpg/ProjectSettings
+Src/CityRpg/UserSettings
+Src/CityRpg/obj/Debug
+/Src/CityRpg/Temp
+/Src/CityRpg/Library

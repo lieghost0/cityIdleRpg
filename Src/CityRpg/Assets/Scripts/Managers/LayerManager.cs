@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class LayerManager : Singleton<LayerManager>
 {
-    public enum LayerType
-    {
-        level1 = 0,
-        level2,
-        level3,
-    }
 
     public Transform[] layers;
 
