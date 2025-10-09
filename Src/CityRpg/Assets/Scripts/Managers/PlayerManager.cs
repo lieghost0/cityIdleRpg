@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Managers
 {
-    class PlayerManager : Singleton<PlayerManager>
+    public class PlayerManager : Singleton<PlayerManager>
     {
 
     }

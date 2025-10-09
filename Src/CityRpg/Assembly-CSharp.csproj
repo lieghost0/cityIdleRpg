@@ -57,27 +57,36 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Assets\Resloader.cs" />
+    <Compile Include="Assets\Scripts\Entities\Entity.cs" />
+    <Compile Include="Assets\Scripts\Layer\LayerType.cs" />
     <Compile Include="Assets\Scripts\Managers\DataManager.cs" />
     <Compile Include="Assets\Scripts\Managers\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\Entities\Player.cs" />
     <Compile Include="Assets\Scripts\Utilities\Singleton.cs" />
     <Compile Include="Assets\Scripts\UI\Person\UIBagItem.cs" />
+    <Compile Include="Assets\Scripts\Defines\MonsterDefine.cs" />
     <Compile Include="Assets\Scripts\UI\UIWindow.cs" />
+    <Compile Include="Assets\Scripts\Entities\Monster.cs" />
     <Compile Include="Assets\Scripts\StartManager.cs" />
+    <Compile Include="Assets\Scripts\Models\BagItem.cs" />
+    <Compile Include="Assets\Scripts\Managers\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\Managers\SaveManager.cs" />
+    <Compile Include="Assets\Scripts\Entities\SaveEntity.cs" />
     <Compile Include="Assets\Scripts\UI\UIManager.cs" />
+    <Compile Include="Assets\Scripts\Utilities\PathUtil.cs" />
+    <Compile Include="Assets\Scripts\Entities\Creature.cs" />
+    <Compile Include="Assets\Scripts\Models\User.cs" />
     <Compile Include="Assets\Scripts\Managers\LayerManager.cs" />
+    <Compile Include="Assets\Scripts\UI\InputBox\UIInputBox.cs" />
+    <Compile Include="Assets\Scripts\Utilities\MonoSingleton.cs" />
     <Compile Include="Assets\Scripts\UI\Person\UIPersonInfo.cs" />
+    <Compile Include="Assets\Scripts\UI\InputBox\InputBox.cs" />
     <Compile Include="Assets\Scripts\UI\UIStart.cs" />
+    <Compile Include="Assets\Scripts\Managers\MonsterManager.cs" />
     <Compile Include="Assets\Scripts\Defines\ItemDefine.cs" />
     <Compile Include="Assets\Scripts\UI\UIMainGame.cs" />
-    <Compile Include="Assets\Scripts\Models\BagItem.cs" />
-    <Compile Include="Assets\Scripts\Models\User.cs" />
-    <Compile Include="Assets\Scripts\Managers\SaveManager.cs" />
-    <Compile Include="Assets\Scripts\Utilities\PathUtil.cs" />
-    <Compile Include="Assets\Scripts\Entities\SaveEntity.cs" />
-    <Compile Include="Assets\Scripts\UI\InputBox\UIInputBox.cs" />
-    <Compile Include="Assets\Scripts\UI\InputBox\InputBox.cs" />
-    <Compile Include="Assets\Scripts\Layer\LayerType.cs" />
-    <Compile Include="Assets\Scripts\Entities\Player.cs" />
+    <Compile Include="Assets\Scripts\UI\Monster\UIMonsterInfo.cs" />
+    <Compile Include="Assets\Scripts\Config\PoolConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

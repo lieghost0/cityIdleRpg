@@ -9,4 +9,7 @@ public class PathUtil
 
     //存档路径
     public static readonly string SavePath = Application.persistentDataPath;
+
+    //怪物预制体路径
+    public static readonly string MonsterPrefabPath = "UI/Monster/UIMonsterInfo";
 }

@@ -32,10 +32,7 @@ public class UIStart : MonoBehaviour
             tips = "姓名不能为空";
             return false;
         }
-        Player player = new Player();
-        player.name = input;
-        player.level = 1;
-        player.bagItems = new List<BagItem>();
+        Player player = new Player(1, input, 1, 10, new List<BagItem>());
         User.Instance.currentPlayer = player;
 
         this.gameObject.SetActive(false);
